@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_rqkfoGqEEe2E89rhD37H5A" name="AIMS" id="_cJohUGqEEe2E89rhD37H5A" label="AIMS" dataPackage="_rsRv0GqEEe2E89rhD37H5A" DatabaseType="PostgreSQL" DriverClass="org.postgresql.Driver" URL="jdbc:postgresql://postgresfib.fib.upc.edu:6433/AIMS?" dbVersionString="V9_X" Port="6433" Username="mohana.fathollahi" Password="enc:system.encryption.key.v1:FviCtzjj6QN1MiIQkh278eYq/Oij2Gre0FU1ekFM3bwrD/x/" ServerName="postgresfib.fib.upc.edu" DatasourceName="" FileFieldName="" SID="AIMS" SqlSynthax="" StringQuote="" NullChar="" DbmsId="postgres_id" ProductId="POSTGRESQL" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="public">
+    <taggedValue xmi:id="_rqkfoWqEEe2E89rhD37H5A" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_rq3akGqEEe2E89rhD37H5A" tag="package filter" value=""/>
+    <taggedValue xmi:id="_rq3akWqEEe2E89rhD37H5A" tag="Status" value=""/>
+    <taggedValue xmi:id="_rq3akmqEEe2E89rhD37H5A" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_rq3ak2qEEe2E89rhD37H5A" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_rq3alGqEEe2E89rhD37H5A" tag="Description" value=""/>
+    <taggedValue xmi:id="_rq3alWqEEe2E89rhD37H5A" tag="Author" value=""/>
+    <taggedValue xmi:id="_rq3almqEEe2E89rhD37H5A" tag="otherParameter"/>
+    <taggedValue xmi:id="_rrshAGqEEe2E89rhD37H5A" tag="DB ProductName" value="PostgreSQL"/>
+    <taggedValue xmi:id="_rrshAWqEEe2E89rhD37H5A" tag="DB ProductVersion" value="13.2"/>
+    <taggedValue xmi:id="_rrshAmqEEe2E89rhD37H5A" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_rqkfomqEEe2E89rhD37H5A" key="CONN_PARA_KEY_USERNAME" value="mohana.fathollahi"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_rsRv0GqEEe2E89rhD37H5A" name="AIMS" dataManager="_rqkfoGqEEe2E89rhD37H5A">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_rsRv0WqEEe2E89rhD37H5A" name="public"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_yNPv0Go_Ee2glqw8PaClqQ" name="AMOS" id="_ha1ikGo_Ee2glqw8PaClqQ" label="AMOS" dataPackage="_xO77kGqOEe2E89rhD37H5A" DatabaseType="PostgreSQL" DriverClass="org.postgresql.Driver" URL="jdbc:postgresql://postgresfib.fib.upc.edu:6433/AMOS?" dbVersionString="V9_X" Port="6433" Username="mohana.fathollahi" Password="enc:system.encryption.key.v1:vkDwnGbZmYyKGjNfIym0ofb/SEw2Rjqx1Ej3S22IE5DXLKJ3" ServerName="postgresfib.fib.upc.edu" DatasourceName="" FileFieldName="" SID="AMOS" SqlSynthax="" StringQuote="" NullChar="" DbmsId="postgres_id" ProductId="POSTGRESQL" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="public">
+    <taggedValue xmi:id="_yNQW4Go_Ee2glqw8PaClqQ" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_yNb9EGo_Ee2glqw8PaClqQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_yNjR0Go_Ee2glqw8PaClqQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_yNjR0Wo_Ee2glqw8PaClqQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_yNjR0mo_Ee2glqw8PaClqQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_yNjR02o_Ee2glqw8PaClqQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_yNjR1Go_Ee2glqw8PaClqQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_yNjR1Wo_Ee2glqw8PaClqQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_yPytgGo_Ee2glqw8PaClqQ" tag="DB ProductName" value="PostgreSQL"/>
+    <taggedValue xmi:id="_yPytgWo_Ee2glqw8PaClqQ" tag="DB ProductVersion" value="13.2"/>
+    <taggedValue xmi:id="_yPytgmo_Ee2glqw8PaClqQ" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_yNQW4Wo_Ee2glqw8PaClqQ" key="CONN_PARA_KEY_USERNAME" value="mohana.fathollahi"/>
+    <parameters xmi:id="_-gvsUGpAEe2glqw8PaClqQ" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_xO77kGqOEe2E89rhD37H5A" name="AMOS" dataManager="_yNPv0Go_Ee2glqw8PaClqQ">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_xO77kWqOEe2E89rhD37H5A" name="public"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>
